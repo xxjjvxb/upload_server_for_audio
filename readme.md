@@ -3,8 +3,7 @@
 Only pcm and wav files are supported.
 
 ## Usage
-### install python3 and pip3 
-Install python3 and  pip3.
+### Install python3 and pip3 
 ```bash
 sudo apt-get install python3 python3-pip
 ```
